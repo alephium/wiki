@@ -3,6 +3,10 @@ sidebar_position: 70
 title: Additional resources
 ---
 
+:::info
+Cette page n'a pas encore été traduite. Vous pouvez le faire en suivant le lien en pied de page.
+:::
+
 :::caution
 Some of the following links refer to specific lines of code, which might not correspond to the correct ones, as the source code changes. We do our best to keep our wiki up to date with the latest changes of our projects. Thank you for understanding!
 :::
